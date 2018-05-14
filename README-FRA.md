@@ -1,6 +1,6 @@
-# NYTimes - Guide de Style Objective-C
+# NYTimes Kliwon Jagung - Guide de Style Objective-C
 
-Ce guide décrit les conventions de codage des équipes iOS du New York Times. Nous vous remercions pour vos commentaires dans les [tickets](https://github.com/NYTimes/objetive-c-style-guide/issues), [pull requests](https://github.com/NYTimes/objetive-c-style-guide/pulls) et [tweets](https://twitter.com/nytimesmobile). Aussi, [nous recrutons](http://jobs.nytco.com/job/New-York-iOS-Developer-Job-NY-10001/73366300/).
+Ce guide décrit les conventions de codage des équipes iOS du New York Times. Nous vous remercions pour vos commentaires dans les [tickets](https://github.com/NYTimes/objetive-c-style-guide/issues), [pull requests](https://github.com/kliwon/objetive-c-style-guide/pulls) et [tweets](https://twitter.com/nytimesmobile). Aussi, [nous recrutons](http://jobs.nytco.com/job/New-York-iOS-Developer-Job-NY-10001/73366300/).
 
 Merci à tous [nos contributeurs et contributrices](https://github.com/NYTimes/objective-c-style-guide/contributors).
 
